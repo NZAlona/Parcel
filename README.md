@@ -2,8 +2,8 @@
 
 1. Make sure Node.js is installed (LTS - version)
 2. Create repository and clone it
-3. Check Parcel documentation https://parceljs.org/getting-started/webapp/#installation and install Parcel (npm install --save-dev parcel)
-4. Create package.json file via npm init
+3. Create package.json file via npm init
+4. Check Parcel documentation https://parceljs.org/getting-started/webapp/#installation and install Parcel (npm install --save-dev parcel)
 5. Adjust scripts - entry points:
    start - parcel index.html or multiple _.html
    build - parcel build index.html or _.html
